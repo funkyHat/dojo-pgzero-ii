@@ -1,0 +1,13 @@
+#!/usr/bin/env pgzrun
+
+bird = Actor('bird')
+
+bird.topright = 10, 300
+
+def draw():
+    screen.clear()
+    screen.fill((255,255,255))
+    bird.draw()
+
+def update():
+    bird.left += 2
