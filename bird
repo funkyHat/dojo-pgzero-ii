@@ -32,7 +32,7 @@ def update():
         apple = Actor('apple')
         apples.append(apple)
         h =  random.randint(0, HEIGHT)
-        appcenterr = WIDTH, h
+        apple.center = WIDTH, h
         launch_timer= 0
 
     if keyboard.up and bird.top > 0:
