@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="69.446579mm"
-   height="69.453575mm"
-   viewBox="0 0 246.07056 246.09534"
+   width="21.460028mm"
+   height="21.475807mm"
+   viewBox="0 0 76.03947 76.095378"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bird.svg">
+   sodipodi:docname="bird.svg"
+   inkscape:export-filename="/Users/matt/Projects/dojo-pgzero-ii/images/bird.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="149.87499"
-     inkscape:cy="129.76527"
+     inkscape:cx="-20.107871"
+     inkscape:cy="129.76529"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,43 +60,43 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-119.59876,-517.61218)">
+     transform="translate(-289.58162,-687.61217)">
     <ellipse
-       style="fill:#dec600;fill-opacity:1;stroke:#000000;stroke-width:9.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#dec600;fill-opacity:1;stroke:#000000;stroke-width:2.8756609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4136"
-       cx="212.38457"
-       cy="620.52197"
-       rx="88.135811"
-       ry="85.862968" />
+       cx="318.272"
+       cy="719.43298"
+       rx="27.252548"
+       ry="26.549761" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:14.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 211.0102,675.70729 c -6.06091,78.28682 -25.25381,80.8122 -25.25381,80.8122 0,0 29.7995,-12.6269 46.46702,-5.05076"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.48355722;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 317.84703,736.49691 c -1.8741,24.20713 -7.80875,24.98801 -7.80875,24.98801 0,0 9.21433,-3.90438 14.3681,-1.56175"
        id="path4138"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 170,600.3622 c -1.89331,84.76432 27.74995,5.33358 28,4 -1.42184,18.48389 5.31164,79.94869 26,3"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.33947706;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 305.16623,713.19939 c -0.58543,26.21005 8.58059,1.6492 8.6579,1.23684 -0.43964,5.71542 1.64242,24.72101 8.03949,0.92764"
        id="path4140"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:11.39999962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 294,585.3622 c 68,0 66,1 66,1 l -64,28"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.52500343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 343.50838,708.56123 c 21.02633,0 20.40791,0.30921 20.40791,0.30921 l -19.78949,8.6579"
        id="path4142"
        inkscape:connector-curvature="0" />
     <ellipse
-       style="fill:#fbfbfb;fill-opacity:1;stroke:#000000;stroke-width:5.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#fbfbfb;fill-opacity:1;stroke:#000000;stroke-width:1.70065963;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4144"
-       cx="236.5"
-       cy="534.86218"
-       rx="15.5"
-       ry="14.5" />
+       cx="325.72876"
+       cy="692.94604"
+       rx="4.792768"
+       ry="4.4835572" />
     <use
        x="0"
        y="0"
        xlink:href="#path4144"
        id="use4146"
-       transform="translate(29,8)"
+       transform="translate(8.9671145,2.4736867)"
        width="100%"
        height="100%" />
   </g>

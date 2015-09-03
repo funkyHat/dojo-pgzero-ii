@@ -1,13 +1,45 @@
 #!/usr/bin/env pgzrun
+import random
 
 bird = Actor('bird')
 
-bird.topright = 10, 300
+launch_timer = 0
+
+apples = []
+
+bird.topleft = 10, 300
+bird.momentum = 0
+
+WIDTH, HEIGHT = 700, 500
+
+movement_speed = 8
 
 def draw():
     screen.clear()
     screen.fill((255,255,255))
     bird.draw()
+    for apple in apples:
+        apple.draw()
 
 def update():
-    bird.left += 2
+    global launch_timer
+    launch_timer += 1
+
+    for apple in apples:
+        apple.right -= 5
+
+    if launch_timer == 10:
+        apple = Actor('apple')
+        apples.append(apple)
+        h =  random.randint(0, HEIGHT)
+        appcenterr = WIDTH, h
+        launch_timer= 0
+
+    if keyboard.up and bird.top > 0:
+        bird.top -= movement_speed + bird.momentum
+        bird.momentum += 0.8
+    elif keyboard.down and bird.bottom < HEIGHT:
+        bird.top += movement_speed + bird.momentum
+        bird.momentum += 0.8
+    else:
+        bird.momentum = 0
